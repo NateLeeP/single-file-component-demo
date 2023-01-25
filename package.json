@@ -1,0 +1,19 @@
+{
+  "name": "single-file-component-demo",
+  "version": "1.0.0",
+  "description": "Code repository accompanying blog post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateLeeP/single-file-component-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateLeeP/single-file-component-demo/issues"
+  },
+  "homepage": "https://github.com/NateLeeP/single-file-component-demo#readme"
+}
